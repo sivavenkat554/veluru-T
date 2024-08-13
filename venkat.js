@@ -1,5 +1,5 @@
 function yesClicked() {
-    document.getElementById('message').textContent = 'I know, just tell me a date Now ';
+    document.getElementById('message').textContent = 'i hope you have enjoyed your last teen year happily.,May your 20th birthday be surrounded by your beloved people,happy  birthday Harshitha. ';
     document.getElementById('noButton').style.display = 'none';
 }
 
